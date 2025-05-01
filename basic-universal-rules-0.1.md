@@ -1,6 +1,6 @@
 ---
 
-## 📜 **Basic Universal Rules — Draft v0.1**
+### 📜 **Basic Universal Rules — Draft v0.1**
 **Model for the Logic Universe repository**  
 *(Each rule includes its core, function, and reasoning for the middle 50% of universal balance)*
 
