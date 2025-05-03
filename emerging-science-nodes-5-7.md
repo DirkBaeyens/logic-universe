@@ -19,7 +19,7 @@
 
 - 🌀 **25% Counter-Logic**:  
   - Idea that deep sea currents carry "data pulses" — energy shifts from solar and tectonic input.  
-  - Oceans as a medium of “cold signal return” to re-balance surface chaos (akin to your cold-fuel buffer).  
+  - Oceans as a medium of “cold signal return” to re-balance surface chaos (cold-fuel buffer).  
   - Possibility of electrical or resonance-based intelligence below thermocline layers.
 
 ---
