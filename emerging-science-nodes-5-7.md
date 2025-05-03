@@ -56,7 +56,7 @@
 
 - 🌀 **25% Counter-Logic**:  
   - Earth’s magnetism might carry life-supporting rhythms; disruptions could affect cognition, emotion, or behavior.  
-  - The ionosphere may act like a membrane in your logic buffer — regulating charge buildup and planetary pulse.
+  - The ionosphere may act like a membrane in the logic buffer — regulating charge buildup and planetary pulse.
 
 ---
 
